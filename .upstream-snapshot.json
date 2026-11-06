@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "target": "cla7aye15I4nd/opensource-xorg__libxrender",
+  "canonical_upstream": "https://gitlab.freedesktop.org/xorg/lib/libxrender",
+  "source": {
+    "kind": "git",
+    "upstream_url": "https://gitlab.freedesktop.org/xorg/lib/libxrender.git",
+    "branch": "master",
+    "revision": "f30d654658ebf17d41141ed3ec2abf607d8a512e"
+  },
+  "publication_review": {
+    "license_files": [
+      "COPYING"
+    ],
+    "notice_files": [
+      "AUTHORS"
+    ],
+    "public_fixture_key_markers": []
+  },
+  "upstream_tree_sha256": "93efdd8186c7fcf58311168f42252ec7f07d309106ab6b8fa4a3d159fad99fce",
+  "tree_sha256": "2fe43bf8ad8373c3b2c9bb4e96d24dd33bd49dc56350c4e90b9fad3ec1e1801e"
+}
